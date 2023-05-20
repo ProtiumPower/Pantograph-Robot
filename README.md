@@ -3,5 +3,5 @@
 
 To get the python code visit: https://github.com/ProtiumPower/Pantograph-Robot/blob/main/python/tests/protocol1_0/My/M.py
 
-Cad model is available here: 
+Cad model is available here: https://github.com/ProtiumPower/Pantograph-Robot/tree/main/Assembly
 
